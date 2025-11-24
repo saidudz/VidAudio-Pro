@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎵 VidAudio Pro  
-### A modern desktop application for downloading videos & audio in high quality.
+# 🎵 VidAudio Pro
+A modern desktop application for downloading videos & audio in high quality.
 
 <p align="center">
-  <img src="/mnt/data/VidAudio Pro.png" alt="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0da87159-ac60-45d5-817d-b4642f23087b" />
-" width="800"/>
+  <img src="https://raw.githubusercontent.com/saidudz/VidAudio-Pro/refs/heads/main/assets/VidAudio%20Pro.png" alt="VidAudio Pro UI" width="900">
 </p>
+
 
 
 **Clean UI • Fast Performance • Multi-Format Support • Built with Electron + React + Vite**
