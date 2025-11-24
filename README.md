@@ -96,14 +96,3 @@ Suitable for developers.
 4. Choose quality/format  
 5. Click **Download**  
 6. Monitor progress from the Downloads section  
-
----
-
-## 🛠 Build from Source (Developers)
-
-```bash
-# Install dependencies
-npm install
-
-# Run development mode
-npm run dev
