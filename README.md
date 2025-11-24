@@ -70,7 +70,7 @@ For developers and power users.
 
 ---
 
-                                                                                                               ## 📥 Download VidAudio Pro
+## 📥 Download VidAudio Pro
 
 ### 🔹 Installer (Recommended)
 
