@@ -73,7 +73,7 @@ For developers and power users.
 ### 🔹 Installer (Recommended)
 
 <p align="center">
-  <a href="[https://download1593.mediafire.com/8mumrang3yfgCYB1ubIB33xXfo-iHrfjAmhJBnZjoSBrfiRTKMxDqyzHcrPssA66taw7R--P6i8_FGcCZjUnVWm0icG1QQUSJoMtGOYzLSMvLAJ_On6hfSzPDVLGgWT6vjP0bnXkZdS2SrDLNxnbSG9FnOD_CTsGZ6XltZR0LLTx/17zi10rvhq7ic64/VidAudio+Pro+Setup+2.4.0.exe](https://download1323.mediafire.com/g7db3tggsdqgn14X18YgqGXrm-ulB2z43s_63B7PPP-MavKBIZp65iIfJnLChCyDV-PmwyX6BVvqf4xZytmPwnCnyFemfPKaA2kUxOLwD4BN-TFHe6DAUynZTOTcJqHHHebfwYpAVqR1Dbk_bCqeFdYdhuZt-fgZT-KTlT6WVDIc/nhtgh4mkh24zhnj/VidAudio+Pro+Setup+2.4.0.exe)">
+  <a href="https://download1323.mediafire.com/g7db3tggsdqgn14X18YgqGXrm-ulB2z43s_63B7PPP-MavKBIZp65iIfJnLChCyDV-PmwyX6BVvqf4xZytmPwnCnyFemfPKaA2kUxOLwD4BN-TFHe6DAUynZTOTcJqHHHebfwYpAVqR1Dbk_bCqeFdYdhuZt-fgZT-KTlT6WVDIc/nhtgh4mkh24zhnj/VidAudio+Pro+Setup+2.4.0.exe">
     <img src="https://img.shields.io/badge/Download%20Installer-2.4.0-blue?style=for-the-badge">
   </a>
 </p>
