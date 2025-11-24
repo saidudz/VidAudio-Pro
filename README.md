@@ -68,6 +68,16 @@ A modern desktop application for downloading videos & audio in high quality.
 تشغيل مباشر بدون تثبيت.
 
 ### ✔ Unpacked Version
+
+## 📥 Download VidAudio Pro
+
+### 🔹 Installer (Recommended)
+[Download VidAudio Pro Setup 2.4.0.exe](https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe)
+
+✔ كامل التثبيت  
+✔ إنشاء الاختصارات  
+✔ مناسب للمستخدمين العاديين
+
 مناسبة للمطورين.
 
 ---
