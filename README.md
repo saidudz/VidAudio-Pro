@@ -74,6 +74,13 @@ A modern desktop application for downloading videos & audio in high quality.
 ### 🔹 Installer (Recommended)
 [Download VidAudio Pro Setup 2.4.0.exe](https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe)
 
+<p align="center">
+  <a href="https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe">
+    <img src="https://img.shields.io/badge/Download%20Installer-2.4.0-blue?style=for-the-badge">
+  </a>
+</p>
+
+
 ✔ كامل التثبيت  
 ✔ إنشاء الاختصارات  
 ✔ مناسب للمستخدمين العاديين
