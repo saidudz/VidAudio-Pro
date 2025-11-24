@@ -33,7 +33,7 @@ The application is built using the latest technologies:
 - Smooth transitions and interactive design  
 
 ### 🔹 High-Quality Video Downloads
-- Supports MP4, WEBM, MKV, and more  
+- Supports MP4
 - Quality support up to 1080p, 2K, 4K (depending on source)  
 
 ### 🔹 Audio Extraction
