@@ -7,8 +7,6 @@ A modern desktop application for downloading videos & audio in high quality.
   <img src="https://raw.githubusercontent.com/saidudz/VidAudio-Pro/refs/heads/main/assets/VidAudio%20Pro.png" alt="VidAudio Pro UI" width="900">
 </p>
 
-
-
 **Clean UI • Fast Performance • Multi-Format Support • Built with Electron + React + Vite**
 
 </div>
@@ -17,60 +15,66 @@ A modern desktop application for downloading videos & audio in high quality.
 
 ## 📌 Overview
 
-**VidAudio Pro** هو تطبيق سطح مكتب حديث وسريع، مخصص لتنزيل الفيديوهات والصوتيات من مختلف المواقع، بجودة عالية وبواجهة احترافية.  
-يدعم التطبيق العديد من الميزات المتقدمة، مثل تشغيل التحميلات في الخلفية، واستخراج الصوت، وتحميل قوائم التشغيل، ومتابعة تقدم التحميل لحظيًا.
+**VidAudio Pro** is a modern and fast desktop application designed for downloading videos and audio from various websites in high quality with a professional, stylish interface.  
+It supports many advanced features such as background downloads, audio extraction, playlist downloading, and real-time progress tracking.
 
-تم بناء التطبيق باستخدام أحدث التقنيات:
-- **Electron** لإنشاء تطبيق سطح المكتب  
-- **React** لواجهة المستخدم  
-- **Vite** للسرعة والأداء  
-- **yt-dlp** كمحرك تنزيل عالي الكفاءة  
+The application is built using the latest technologies:
+- **Electron** for the desktop application  
+- **React** for the user interface  
+- **Vite** for speed and performance  
+- **yt-dlp** as a powerful download engine  
 
 ---
 
 ## ✨ Features
 
-### 🔹 واجهة حديثة (Modern UI)
-- تصميم داكن جميل وسهل الاستخدام
-- انتقالات سلسة وتفاعلات مريحة
+### 🔹 Modern UI
+- Beautiful dark theme  
+- Smooth transitions and interactive design  
 
-### 🔹 تحميل فيديوهات بجودة عالية
-- تحميل MP4، WEBM، MKV وغيرها
-- دعم الجودة 1080p، 2K، 4K (حسب المصدر)
+### 🔹 High-Quality Video Downloads
+- Supports MP4, WEBM, MKV, and more  
+- Quality support up to 1080p, 2K, 4K (depending on source)  
 
-### 🔹 استخراج الصوت (Audio Extraction)
-- التحويل إلى MP3 بسهولة  
-- مناسب لملفات الموسيقى والبودكاست
+### 🔹 Audio Extraction
+- Convert videos to MP3 easily  
+- Perfect for music, podcasts, and audio clips  
 
-### 🔹 تحميل قوائم التشغيل (Playlist Support)
-- تنزيل قائمة تشغيل كاملة  
-- اختيار الصوت فقط أو الفيديو  
+### 🔹 Playlist Support
+- Download entire playlists  
+- Choose between video or audio  
 
-### 🔹 تحميلات الخلفية (Background Downloads)
-- يواصل التحميل حتى مع انتقالك بين الصفحات
-- لا يؤثر على أداء التطبيق
+### 🔹 Background Downloads
+- Continue downloading while browsing the app  
+- Does not affect application performance  
 
-### 🔹 إدارة التحميلات
-- إيقاف / استئناف / إلغاء  
-- عرض السرعة والوقت المتبقي  
-- عرض السجل الكامل للتحميلات  
+### 🔹 Download Management
+- Pause / Resume / Cancel  
+- Speed & ETA tracking  
+- Full download history  
 
 ---
 
 ## 📦 Download
 
-> ⚠️ **قم بإضافة روابط التحميل هنا بعد إنشاء الإصدار (Release)**
+> ⚠️ Add the download links here after creating the official GitHub Release.
 
 ### ✔ Installer (Recommended)
-تنصيب كامل مع اختصارات سطح المكتب وStart Menu.
+Full installation with Start Menu and Desktop shortcuts.
 
 ### ✔ Portable Version
-تشغيل مباشر بدون تثبيت.
+Run directly without installation.
 
 ### ✔ Unpacked Version
+For developers and power users.
+
+---
 
 ## 📥 Download VidAudio Pro
 
+### 🔹 Installer (Recommended)
+
+[Download VidAudio Pro Setup 2.4.0.exe](https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe)
 
 <p align="center">
   <a href="https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe">
@@ -78,34 +82,47 @@ A modern desktop application for downloading videos & audio in high quality.
   </a>
 </p>
 
+✔ Full installation  
+✔ Creates shortcuts  
+✔ Suitable for regular users  
 
-✔ كامل التثبيت  
-✔ إنشاء الاختصارات  
-✔ مناسب للمستخدمين العاديين
-
-مناسبة للمطورين.
+Suitable for developers.
 
 ---
 
 ## 🚀 How to Use
 
-1. شغّل التطبيق  
-2. الصق رابط فيديو أو قائمة تشغيل  
-3. اضغط **Analyze** لقراءة المعلومات  
-4. اختر الجودة/الصيغة  
-5. اضغط **Download**  
-6. راقب التقدم من شاشة التحميل  
+1. Launch the application  
+2. Paste a video URL or playlist link  
+3. Click **Analyze** to fetch video information  
+4. Choose quality/format  
+5. Click **Download**  
+6. Monitor progress from the Downloads section  
 
 ---
 
-## 🛠 Build from Source (للمطورين)
+## 🛠 Build from Source (Developers)
 
 ```bash
-# تثبيت التبعيات
+# Install dependencies
 npm install
 
-# تشغيل وضع التطوير
+# Run development mode
 npm run dev
 
-# إنشاء نسخة الإنتاج (EXE)
+
+---
+
+# 🎉 جاهز للنسخ واللصق بالكامل في README  
+بدون أي تعديل — النسخة الإنجليزية احترافية ومكتملة.
+
+إذا تريد:  
+✨ Portable download section  
+✨ Multi-language README (English + Arabic)  
+✨ Adding badges for version, platform, downloads  
+✨ Professional GitHub Banner  
+
+فقط قل لي وسوف أجهّزها لك فورًا ❤️
+
+# Build production (EXE)
 npm run electron:build
