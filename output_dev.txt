@@ -1,0 +1,12 @@
+
+Starting Electron main process...
+Creating window...
+[21284:1123/135819.817:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[21284:1123/135819.818:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[21284:1123/135819.820:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[21284:1123/135819.826:ERROR:disk_cache.cc(208)] Unable to create cache
+[21284:1123/135819.826:ERROR:gpu_disk_cache.cc(713)] Gpu Cache Creation failed: -2
+[21284:1123/135819.826:ERROR:disk_cache.cc(208)] Unable to create cache
+[21284:1123/135819.826:ERROR:gpu_disk_cache.cc(713)] Gpu Cache Creation failed: -2
+[21284:1123/135819.826:ERROR:disk_cache.cc(208)] Unable to create cache
+[21284:1123/135819.826:ERROR:gpu_disk_cache.cc(713)] Gpu Cache Creation failed: -2

@@ -1,0 +1,77 @@
+{
+  "name": "vidaudio-pro",
+  "private": true,
+  "version": "2.4.0",
+  "type": "module",
+  "main": "electron.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "set NODE_ENV=development && electron .",
+    "electron:build": "npm run build && electron-builder"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "clsx": "^2.1.1",
+    "electron-store": "^11.0.2",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
+    "recharts": "^3.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "autoprefixer": "^10.4.22",
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "build": {
+    "appId": "com.vidaudio.pro",
+    "productName": "VidAudio Pro",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "dist/**/*",
+      "electron.js",
+      "preload.cjs",
+      "services/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "resources/yt-dlp.exe",
+        "to": "yt-dlp.exe"
+      }
+    ],
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}
