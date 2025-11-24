@@ -107,20 +107,3 @@ npm install
 
 # Run development mode
 npm run dev
-
-
----
-
-# 🎉 جاهز للنسخ واللصق بالكامل في README  
-بدون أي تعديل — النسخة الإنجليزية احترافية ومكتملة.
-
-إذا تريد:  
-✨ Portable download section  
-✨ Multi-language README (English + Arabic)  
-✨ Adding badges for version, platform, downloads  
-✨ Professional GitHub Banner  
-
-فقط قل لي وسوف أجهّزها لك فورًا ❤️
-
-# Build production (EXE)
-npm run electron:build
