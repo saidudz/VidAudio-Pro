@@ -57,8 +57,6 @@ The application is built using the latest technologies:
 
 ## 📦 Download
 
-> ⚠️ Add the download links here after creating the official GitHub Release.
-
 ### ✔ Installer (Recommended)
 Full installation with Start Menu and Desktop shortcuts.
 
