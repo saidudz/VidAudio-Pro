@@ -73,7 +73,7 @@ For developers and power users.
 ### 🔹 Installer (Recommended)
 
 <p align="center">
-  <a href="https://download851.mediafire.com/4570pj489lugdKW7w7XxXwob0rQtDpALBlAWpj26FH389xFTSITGE6HntwSvUjhlYcVpbanzOHYCF0VsZKXUOaV9QkzgBjqd7oHeJ8ZCe-yEO48J6g7ubXogb9WXWdWdybxzupsNhggakllWbY-NVw6RTTCUFM8LyOKPIAwq4Bi9/64o5afxub6a5wnk/VidAudio+Pro+Setup+2.4.0.exe">
+  <a href="https://download1593.mediafire.com/8mumrang3yfgCYB1ubIB33xXfo-iHrfjAmhJBnZjoSBrfiRTKMxDqyzHcrPssA66taw7R--P6i8_FGcCZjUnVWm0icG1QQUSJoMtGOYzLSMvLAJ_On6hfSzPDVLGgWT6vjP0bnXkZdS2SrDLNxnbSG9FnOD_CTsGZ6XltZR0LLTx/17zi10rvhq7ic64/VidAudio+Pro+Setup+2.4.0.exe">
     <img src="https://img.shields.io/badge/Download%20Installer-2.4.0-blue?style=for-the-badge">
   </a>
 </p>
